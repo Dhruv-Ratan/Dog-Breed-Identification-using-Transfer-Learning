@@ -14,3 +14,6 @@ Scenario: A person finds a lost dog and wants to help reunite it with its owner.
 Veterinary Diagnosis Support:
 
 Scenario: A veterinarian needs assistance in identifying the breed of a mixed-breed dog brought in for a health checkup. Knowing the breed can provide valuable insights into potential genetic predispositions to certain health conditions or behavioral traits.
+
+
+Dataset : https://www.kaggle.com/c/dog-breed-identification/data
